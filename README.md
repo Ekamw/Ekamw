@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Ekamw
+- 👀 I’m interested in Data science
